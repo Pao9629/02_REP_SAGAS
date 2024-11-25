@@ -1,1 +1,10 @@
+
 1	Star Wars: Episodio I - La amenaza fantasma
+2       Star Wars: Episodio V - El Imperio Contraataca (1980)
+3	Star Wars: Episodio VI - El Retorno del Jedi (1983)
+4	Star Wars: Episodio I - La Amenaza Fantasma (1999)
+5	Star Wars: Episodio II - El Ataque de los Clones (2002)
+6	Star Wars: Episodio III - La Venganza de los Sith (2005)
+7	Star Wars: Episodio VII - El Despertar de la Fuerza (2015)
+8	Star Wars: Episodio VIII - Los Últimos Jedi (2017)
+9	Star Wars: Episodio IX - El Ascenso de Skywalker (2019)
